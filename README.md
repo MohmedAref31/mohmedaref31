@@ -55,11 +55,10 @@ I'm a full stack engineer with a passion for Node.js and React.js. I love to cre
 <a href="https://github.com/mohmedaref31"><img alt="Mohamed Aref's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohmedaref31&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/mohmedaref31"><img alt="Mohamed Aref's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohmedaref31&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
-<img src="https://wakatime.com/share/@mohmedaref31/87411c05-e7ea-4678-89a4-7fad93ab9fcf.svg"/>
 
   <br/>
   
-![Mohamed Aref's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmedaref31&custom_title=Hassan%20ELDash%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mohamed Aref's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmedaref31&custom_title=Mohamed%20Aref%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   <hr/>
   <br/>
 ⭐️ From Mohamed Aref
