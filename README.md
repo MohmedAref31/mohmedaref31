@@ -2,35 +2,14 @@
 # Hi there, I'm Mohamed Aref (محمد عارف) 👋
 
 
-I'm a full stack engineer with a passion for Node.js and React.js. I love to create, innovate, and solve complex problems using JavaScript, TypeScript and Node.js. Welcome to my GitHub profile!
-
-
-## 🚀 Projects
-- [**Anjezha**](github.com/anjezha/anjezha) - An application for linking people who has home tasks with taskers.
-- [**Social Media API**](github.com/mohmedaref31/social-media-api) - A social media application which make communications easier than before.
-  
-# My Skills
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=white&k&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=white&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=white&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&labelColor=white&logo=tailwindcss)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=white&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&labelColor=white&logo=MongoDB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=white&logo=bootstrap)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=white&logo=git)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=white&logo=visual%20studio&logoColor=0078d7)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=white&logo=C%2B%2B&logoColor=00599C)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=D83B01)
+Motivated Backend Developer with over a year of hands-on experience in building and optimizing web applications using Node.js, Express.js, NestJS, MongoDB, and PostgreSQL. I seek to leverage my skills to develop reliable and scalable software solutions that effectively serve business goals.
 
 ## 🎓 Education
 - Bachelor in Computer Science, Beni Suef Univesity 2025
 
 ## 📫 How to reach me
 - **Email:** [mohmedaref2003@gmail.com](mailto:mohmedaref2003@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohamed-aref-850b78284/)
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/mohamed-aref31)
 
 
 <br/>
